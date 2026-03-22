@@ -1,2 +1,2 @@
 # shellcode-inj
-dll injector using CreateRemoteThread and LoadLibrary with a small shellcode stub for educational purposes.
+This injector runs shellcode that calls LoadLibrary to load our dll
